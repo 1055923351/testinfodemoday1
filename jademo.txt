@@ -1,0 +1,21 @@
+import java.util.Arrays;
+//新账号hello九十七
+public class Main {
+
+    public static void main(String[] args) {
+        //定义一个数组
+        int [] infodigit = {12,33,32,56,7};
+        Arrays.sort(infodigit);
+
+        for(int i = 0; i < infodigit.length; i++){
+
+            System.out.print(infodigit[i]+"   ");
+        }
+        String ttl = "偷看就揍你";
+    }
+
+
+
+
+
+}
