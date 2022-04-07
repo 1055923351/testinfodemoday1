@@ -1,9 +1,9 @@
 import java.util.Arrays;
-//ĞÂÕËºÅhello¾ÅÊ®Æß
+//æ–°è´¦å·helloä¹åä¸ƒ
 public class Main {
 
     public static void main(String[] args) {
-        //¶¨ÒåÒ»¸öÊı×é
+        //å®šä¹‰ä¸€ä¸ªæ•°ç»„
         int [] infodigit = {12,33,32,56,7};
         Arrays.sort(infodigit);
 
@@ -11,7 +11,8 @@ public class Main {
 
             System.out.print(infodigit[i]+"   ");
         }
-        String ttl = "Íµ¿´¾Í×áÄã";
+        String ttl = "å·çœ‹å°±æä½ ";
+        System.out.print(ttl);
     }
 
 
