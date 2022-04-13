@@ -14,7 +14,8 @@ public class day {
            }
 
         }
-        System.out.print("从小到大排了"+Arrays.toString(infodigit));
+        System.out.print("从小到大排列"+Arrays.toString(infodigit));
+
 
 
     }
